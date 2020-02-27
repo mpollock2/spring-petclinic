@@ -1,4 +1,4 @@
-5 pts Your Github account showing that is has been forked from the depaulcdm/springpetclinic repository
+5 pts Your Github account showing that is has been forked from the depaulcdm/springpetclinic repository.
 ![Screen Capture #1](figures/github_fork.png)
 
 5 pts Your Travis CI dashboard showing a successful first build.
@@ -23,7 +23,7 @@
 ![Screen Capture #8](figures/fixed_coordinates.png)
 
 5 pts Your Travis CI dashboard showing the successful build after the breaking change has been fixed.
-![Screen Capture #9](figures/successbuild_afterchange.png)
+![Screen Capture #9](figures/success_build_after_fix.png)
 
 5 pts Your Github repository with the readme.md file selected showing the build success status after the Travis CI build has recovered.
 ![Screen Capture #10](figures/success_readme.png)
